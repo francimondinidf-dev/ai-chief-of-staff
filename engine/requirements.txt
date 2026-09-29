@@ -1,0 +1,3 @@
+pywin32>=306
+requests>=2.31
+anthropic>=0.40
